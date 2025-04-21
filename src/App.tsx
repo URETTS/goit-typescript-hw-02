@@ -7,7 +7,8 @@ import ErrorMessage from "./components/ErrorMessage";
 import LoadMoreBtn from "./components/LoadMoreBtn";
 import ImageModal from "./components/ImageModal";
 import Modal from "react-modal";
-import { UnsplashImage, UnsplashAPIResponse } from "./types";
+import { UnsplashImage } from "./types";
+import { UnsplashAPIResponse } from "./types";
 
 Modal.setAppElement("#root");
 
